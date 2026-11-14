@@ -1,1 +1,2 @@
 Test case 1: login with valid user
+Test case 2 : login with wrong password 
